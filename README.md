@@ -1,99 +1,88 @@
-<!--
-mymyanmarland/mymyanmarland is a ✨ special ✨ repository because its `README.md` will appear on your GitHub profile.
--->
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Stuxnet&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:22d3ee&height=220&section=header&text=Stuxnet&fontSize=88&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20%26%20Automation%20Builder&descAlignY=60&descSize=18" width="100%" alt="Stuxnet profile banner" />
+
+  <h3>Building useful web products, practical automations, and AI-powered tools.</h3>
+
+  <a href="https://github.com/mymyanmarland?tab=followers"><img src="https://img.shields.io/github/followers/mymyanmarland?style=for-the-badge&logo=github&label=FOLLOW&color=2563eb" alt="GitHub followers" /></a>
+  <a href="https://github.com/mymyanmarland?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-118-0f172a?style=for-the-badge&logo=github" alt="Public repositories" /></a>
+  <a href="https://t.me/mymyanmarland4"><img src="https://img.shields.io/badge/Telegram-Connect-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Stuxnet+%F0%9F%91%8B;Web+Developer+%7C+AI+Enthusiast;System+Explorer+%7C+Digital+Alchemist;Always+learning%2C+always+building." alt="Typing SVG" />
-  </a>
-</div>
+<br />
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mymyanmarland&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/mymyanmarland?label=Followers&style=for-the-badge&color=00D9FF" alt="Followers" />
-  <img src="https://img.shields.io/badge/Focus-Web%20%26%20AI-blueviolet?style=for-the-badge" alt="Focus" />
-</div>
+## 👋 About Me
 
----
-
-## 🚀 About Me
-
-```typescript
+```ts
 const stuxnet = {
-  location:    "Myanmar 🇲🇲",
-  role:        "Web Developer",
-  passions:    ["AI Agents", "Automation", "System Architecture"],
-  learning:    ["Cybersecurity", "Cloud Native", "Modern Web"],
-  askMeAbout:  ["OpenClaw", "Linux", "Automation"],
-  motto:       "Build. Break. Learn. Repeat."
+  basedIn: "Myanmar 🇲🇲",
+  focus: ["Full-Stack Web Apps", "AI Agents", "Workflow Automation"],
+  currentlyBuilding: "Modern products with Next.js and TypeScript",
+  principles: ["Ship useful things", "Keep learning", "Make systems simpler"],
 };
 ```
 
----
+I turn ideas into polished, maintainable web applications—from product design and frontend UX to APIs, data, automation, and deployment.
 
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-### Languages
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,bash" />
-
-### Frameworks & Runtime
-<img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,express,tailwind" />
-
-### DevOps & Tools
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode,vim" />
-
-### Databases
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,sqlite" />
-
-</div>
-
----
-
-## 📊 GitHub Analytics
+## ⚡ Core Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mymyanmarland&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mymyanmarland&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express,prisma,postgres,supabase,tailwind,docker,git,github,linux&perline=14" alt="Technology stack" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mymyanmarland&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <sub>Next.js · TypeScript · Prisma · PostgreSQL · Supabase · Tailwind CSS · AI & Automation</sub>
+</div>
+
+## ✨ Selected Work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏨 Hotel Management System</h3>
+      <p>Booking-focused application and supporting API work for hotel operations.</p>
+      <p><a href="https://github.com/mymyanmarland/hms-booking">Explore booking app →</a> · <a href="https://github.com/mymyanmarland/hms-api">Explore API →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 n8n Workflows Catalog</h3>
+      <p>A catalog for discovering and working with automation workflows.</p>
+      <p><a href="https://github.com/mymyanmarland/n8nworkflows.xyz">Explore project →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🐧 Premium Linux Dotfiles</h3>
+      <p>Personal Linux environment configuration and developer tooling.</p>
+      <p><a href="https://github.com/mymyanmarland/premium-linux-dotfiles-v2">Explore project →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📈 Trading Dashboard</h3>
+      <p>A dashboard project for tracking and exploring trading information.</p>
+      <p><a href="https://github.com/mymyanmarland/stuxnet-trading-dashboard">Explore project →</a></p>
+    </td>
+  </tr>
+</table>
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mymyanmarland&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mymyanmarland&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mymyanmarland&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mymyanmarland&bg_color=ffffff00&color=2563eb&line=06b6d4&point=0f172a&area=true&hide_border=true" width="96%" alt="Contribution graph" />
+</div>
+
+## 🤝 Let’s Connect
+
+<div align="center">
+  <a href="https://t.me/mymyanmarland4"><img src="https://img.shields.io/badge/Telegram-Message%20me-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Message on Telegram" /></a>
+  <a href="https://github.com/mymyanmarland"><img src="https://img.shields.io/badge/GitHub-mymyanmarland-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mymyanmarland&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="98%" />
+  <br />
+  <sub>Build with intent. Learn in public. Keep moving forward.</sub>
+  <br /><br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:22d3ee&height=110&section=footer" width="100%" alt="Footer wave" />
 </div>
-
----
-
-## 📬 Connect with Me
-
-<div align="center">
-  <a href="https://t.me/mymyanmarland4" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://github.com/mymyanmarland" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%" />
-</div>
-
