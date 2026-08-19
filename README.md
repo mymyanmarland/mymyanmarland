@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:22d3ee&height=220&section=header&text=Stuxnet&fontSize=88&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20%26%20Automation%20Builder&descAlignY=60&descSize=18" width="100%" alt="Stuxnet profile banner" />
+  <img src="https://raw.githubusercontent.com/mymyanmarland/mymyanmarland/main/assets/stuxnet-banner.svg" width="100%" alt="Stuxnet profile banner" />
 
   <h3>Building useful web products, practical automations, and AI-powered tools.</h3>
 
@@ -84,5 +84,4 @@ I turn ideas into polished, maintainable web applications—from product design 
   <br />
   <sub>Build with intent. Learn in public. Keep moving forward.</sub>
   <br /><br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:22d3ee&height=110&section=footer" width="100%" alt="Footer wave" />
 </div>
