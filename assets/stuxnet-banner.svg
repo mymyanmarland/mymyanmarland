@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Stuxnet — Full-Stack Developer, AI and Automation Builder</title>
+  <desc id="desc">A blue gradient banner for the Stuxnet GitHub profile.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="52%" stop-color="#1d4ed8"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#60a5fa" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity=".42"/>
+      <stop offset="100%" stop-color="#67e8f9" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="34"/></filter>
+  </defs>
+  <rect width="1200" height="360" rx="20" fill="url(#bg)"/>
+  <circle cx="1050" cy="55" r="120" fill="#67e8f9" opacity=".22" filter="url(#blur)"/>
+  <circle cx="130" cy="335" r="140" fill="#a5b4fc" opacity=".17" filter="url(#blur)"/>
+  <path d="M0 280 C190 210 310 345 510 271 S850 184 1200 256 V360 H0Z" fill="#020617" opacity=".20"/>
+  <path d="M0 1 H1200" stroke="url(#glow)" stroke-width="2"/>
+  <g fill="#bae6fd" opacity=".66">
+    <circle cx="80" cy="78" r="3"/><circle cx="114" cy="102" r="2"/><circle cx="1075" cy="270" r="3"/><circle cx="1110" cy="240" r="2"/>
+  </g>
+  <text x="600" y="150" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="82" font-weight="700" letter-spacing="2">STUXNET</text>
+  <rect x="395" y="180" width="410" height="2" rx="1" fill="#a5f3fc" opacity=".9"/>
+  <text x="600" y="225" text-anchor="middle" fill="#e0f2fe" font-family="Arial, Helvetica, sans-serif" font-size="25" letter-spacing="1">FULL-STACK DEVELOPER  •  AI &amp; AUTOMATION BUILDER</text>
+  <text x="600" y="273" text-anchor="middle" fill="#bae6fd" font-family="Arial, Helvetica, sans-serif" font-size="17">Build useful things. Keep learning. Ship with intent.</text>
+</svg>
