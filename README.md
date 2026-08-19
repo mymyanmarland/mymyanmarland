@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mymyanmarland/mymyanmarland/main/assets/stuxnet-banner.png" width="100%" alt="Stuxnet profile banner" />
+  <img src="https://raw.githubusercontent.com/mymyanmarland/mymyanmarland/740663b7c5546d272a7fa5c9166ea297cb14f466/assets/stuxnet-banner.png" width="100%" alt="Stuxnet profile banner" />
 
   <h3>Building useful web products, practical automations, and AI-powered tools.</h3>
 
