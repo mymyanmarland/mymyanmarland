@@ -28,7 +28,7 @@
 ## 👋 About Me
 
 <div align="center">
-  <img src="assets/code.svg" width="880" alt="Self-typing code editor — about me" />
+  <img src="assets/bento.svg" width="960" alt="About me — bento grid" />
 </div>
 
 I turn ideas into polished, maintainable web applications — from product design and frontend UX to APIs, data, automation, and deployment. I build in both **မြန်မာ** and **English**.
