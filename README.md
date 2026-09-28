@@ -21,17 +21,15 @@
 
 <br />
 
+<div align="center">
+  <img src="assets/matrix.svg" width="100%" alt="Digital rain animation" />
+</div>
+
 ## 👋 About Me
 
-```ts
-const kyawMyoNaing = {
-  basedIn: "Myanmar 🇲🇲",
-  role: "Full-Stack Developer",
-  focus: ["Next.js & TypeScript", "AI Agents & Automation", "Bilingual MM/EN Products"],
-  currentlyBuilding: "Myanmar Weather Dashboard (Next.js + Supabase)",
-  motto: "Quality is not an act, it is a habit",
-};
-```
+<div align="center">
+  <img src="assets/code.svg" width="880" alt="Self-typing code editor — about me" />
+</div>
 
 I turn ideas into polished, maintainable web applications — from product design and frontend UX to APIs, data, automation, and deployment. I build in both **မြန်မာ** and **English**.
 
@@ -112,6 +110,10 @@ I turn ideas into polished, maintainable web applications — from product desig
   <img src="assets/acheik.svg" width="100%" alt="Myanmar acheik pattern divider" />
 </div>
 
+<div align="center">
+  <img src="assets/neon.svg" width="720" alt="Neon sign — let's build something great" />
+</div>
+
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -121,6 +123,10 @@ I turn ideas into polished, maintainable web applications — from product desig
 </div>
 
 <br />
+
+<div align="center">
+  <img src="assets/quotes.svg" width="720" alt="Rotating quotes" />
+</div>
 
 <div align="center">
   <img src="assets/wave.svg" width="100%" alt="Animated wave footer" />
