@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="26" viewBox="0 0 1200 26">
+  <defs>
+    <linearGradient id="dline" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#22d3ee" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#a78bfa" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="dshine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="60" y="12" width="1080" height="2" fill="url(#dline)"/>
+  <circle cx="600" cy="13" r="5" fill="#22d3ee" opacity="0.9">
+    <animate attributeName="opacity" values="0.9;0.3;0.9" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <g>
+    <rect x="60" y="10" width="180" height="6" rx="3" fill="url(#dshine)" opacity="0.8">
+      <animateTransform attributeName="transform" type="translate" values="0 0;1080 0" dur="4.5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
