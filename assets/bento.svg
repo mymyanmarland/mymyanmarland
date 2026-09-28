@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="440" viewBox="0 0 960 440">
+  <defs>
+    <linearGradient id="monoGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <filter id="blur60" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="60"/>
+    </filter>
+    <filter id="softGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter>
+  </defs>
+
+  <!-- ambient drifting orbs -->
+  <circle cx="180" cy="90" r="120" fill="#7c3aed" opacity="0.15" filter="url(#blur60)">
+    <animateTransform attributeName="transform" type="translate" values="0 0;70 40;0 0" keyTimes="0;0.5;1" dur="16s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="800" cy="360" r="130" fill="#22d3ee" opacity="0.12" filter="url(#blur60)">
+    <animateTransform attributeName="transform" type="translate" values="0 0;-60 -40;0 0" keyTimes="0;0.5;1" dur="19s" repeatCount="indefinite"/>
+  </circle>
+
+  <g font-family="'Segoe UI', system-ui, sans-serif">
+    <!-- CARD A : profile -->
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" keyTimes="0;0.5;1" dur="6s" repeatCount="indefinite"/>
+      <rect x="0" y="0" width="600" height="260" rx="20" fill="#0d1434" fill-opacity="0.9" stroke="#22d3ee" stroke-opacity="0.3" stroke-width="1.5"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="0 105 130" to="360 105 130" dur="14s" repeatCount="indefinite"/>
+        <circle cx="105" cy="130" r="66" fill="none" stroke="#22d3ee" stroke-width="3" stroke-dasharray="12 9" opacity="0.65"/>
+      </g>
+      <circle cx="105" cy="130" r="50" fill="url(#monoGrad)"/>
+      <circle cx="105" cy="130" r="50" fill="none" stroke="#ffffff" stroke-opacity="0.35" stroke-width="2"/>
+      <text x="105" y="145" text-anchor="middle" font-size="38" font-weight="800" fill="#0b1026">KN</text>
+      <text x="190" y="108" font-size="32" font-weight="800" fill="#f1f5f9">Kyaw Myo Naing</text>
+      <text x="190" y="142" font-size="19" fill="#7dd3fc">Full-Stack Developer</text>
+      <line x1="190" y1="162" x2="560" y2="162" stroke="#22d3ee" stroke-opacity="0.25"/>
+      <text x="190" y="198" font-size="17" fill="#cbd5e1">📍 Yangon, Myanmar  ·  🕐 GMT+6:30</text>
+      <text x="190" y="230" font-size="17" fill="#94a3b8">💬 Ask me about Next.js, TypeScript &amp; AI</text>
+    </g>
+
+    <!-- CARD B : stack -->
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" keyTimes="0;0.5;1" dur="7.2s" repeatCount="indefinite"/>
+      <rect x="620" y="0" width="340" height="260" rx="20" fill="#0d1434" fill-opacity="0.9" stroke="#a78bfa" stroke-opacity="0.3" stroke-width="1.5"/>
+      <text x="650" y="42" font-size="14" letter-spacing="4" fill="#94a3b8">STACK</text>
+      <g font-size="17" font-weight="700" text-anchor="middle">
+        <rect x="645" y="62" width="140" height="54" rx="14" fill="#22d3ee" fill-opacity="0.14" stroke="#22d3ee" stroke-opacity="0.5"/>
+        <text x="715" y="96" fill="#a5f3fc">Next.js</text>
+        <rect x="795" y="62" width="140" height="54" rx="14" fill="#60a5fa" fill-opacity="0.14" stroke="#60a5fa" stroke-opacity="0.5"/>
+        <text x="865" y="96" fill="#bfdbfe">TypeScript</text>
+        <rect x="645" y="128" width="140" height="54" rx="14" fill="#4ade80" fill-opacity="0.12" stroke="#4ade80" stroke-opacity="0.5"/>
+        <text x="715" y="162" fill="#bbf7d0">Supabase</text>
+        <rect x="795" y="128" width="140" height="54" rx="14" fill="#f472b6" fill-opacity="0.12" stroke="#f472b6" stroke-opacity="0.5"/>
+        <text x="865" y="162" fill="#fbcfe8">Tailwind</text>
+      </g>
+      <text x="790" y="222" text-anchor="middle" font-size="15" fill="#64748b">+ Docker · Prisma · n8n</text>
+    </g>
+
+    <!-- CARD C : now building -->
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" keyTimes="0;0.5;1" dur="5.6s" repeatCount="indefinite"/>
+      <rect x="0" y="280" width="310" height="160" rx="20" fill="#0d1434" fill-opacity="0.9" stroke="#4ade80" stroke-opacity="0.3" stroke-width="1.5"/>
+      <text x="28" y="314" font-size="14" letter-spacing="3" fill="#94a3b8">NOW BUILDING</text>
+      <circle cx="40" cy="352" r="7" fill="#4ade80" filter="url(#softGlow)">
+        <animate attributeName="opacity" values="1;0.3;1" keyTimes="0;0.5;1" dur="1.8s" repeatCount="indefinite"/>
+      </circle>
+      <text x="58" y="359" font-size="19" font-weight="700" fill="#f1f5f9">Myanmar Weather</text>
+      <text x="58" y="385" font-size="19" font-weight="700" fill="#f1f5f9">Dashboard</text>
+      <text x="28" y="414" font-size="14" fill="#4ade80">in progress…</text>
+    </g>
+
+    <!-- CARD D : focus -->
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" keyTimes="0;0.5;1" dur="6.8s" repeatCount="indefinite"/>
+      <rect x="325" y="280" width="310" height="160" rx="20" fill="#0d1434" fill-opacity="0.9" stroke="#fbbf24" stroke-opacity="0.3" stroke-width="1.5"/>
+      <text x="353" y="314" font-size="14" letter-spacing="3" fill="#94a3b8">FOCUS</text>
+      <g font-size="16" fill="#cbd5e1">
+        <text x="353" y="348">▸ AI Agents &amp; Automation</text>
+        <text x="353" y="376">▸ Bilingual MM/EN Apps</text>
+        <text x="353" y="404">▸ Clean, Fast UX</text>
+      </g>
+    </g>
+
+    <!-- CARD E : motto -->
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" keyTimes="0;0.5;1" dur="8s" repeatCount="indefinite"/>
+      <rect x="650" y="280" width="310" height="160" rx="20" fill="#0d1434" fill-opacity="0.9" stroke="#f472b6" stroke-opacity="0.3" stroke-width="1.5"/>
+      <text x="678" y="314" font-size="14" letter-spacing="3" fill="#94a3b8">MOTTO</text>
+      <text x="678" y="352" font-size="18" font-style="italic" fill="#f1f5f9">“Quality is not an act,</text>
+      <text x="678" y="380" font-size="18" font-style="italic" fill="#f1f5f9">it is a habit.”</text>
+      <text x="678" y="408" font-size="14" fill="#64748b">— Aristotle</text>
+    </g>
+  </g>
+</svg>
