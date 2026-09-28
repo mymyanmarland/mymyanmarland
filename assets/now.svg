@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="116" viewBox="0 0 900 116">
+  <defs>
+    <linearGradient id="nowBg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0d1533"/>
+      <stop offset="0.5" stop-color="#101b45"/>
+      <stop offset="1" stop-color="#0d1533"/>
+    </linearGradient>
+  </defs>
+  <rect x="6" y="6" width="888" height="104" rx="20" fill="url(#nowBg)" stroke="#4ade80" stroke-opacity="0.35" stroke-width="1.5"/>
+  <circle cx="58" cy="58" r="26" fill="#4ade80" opacity="0.18">
+    <animate attributeName="r" values="18;30;18" dur="2.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.25;0.06;0.25" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="58" cy="58" r="11" fill="#4ade80">
+    <animate attributeName="opacity" values="1;0.55;1" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+  <g font-family="'Segoe UI', system-ui, sans-serif">
+    <text x="96" y="50" font-size="15" font-weight="800" letter-spacing="4" fill="#4ade80">● NOW</text>
+    <text x="96" y="80" font-size="21" fill="#f1f5f9">Building <tspan font-weight="700" fill="#a5f3fc">Myanmar Weather Dashboard</tspan> — Next.js + Supabase</text>
+    <text x="800" y="50" font-size="14" fill="#64748b" text-anchor="end">2026</text>
+  </g>
+</svg>
