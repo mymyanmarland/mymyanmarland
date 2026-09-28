@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="400" viewBox="0 0 960 400">
+  <defs>
+    <linearGradient id="edgebg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#111a3f"/><stop offset="1" stop-color="#0a0f2b"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="952" height="392" rx="18" fill="url(#edgebg)" stroke="#22d3ee" stroke-opacity="0.35" stroke-width="1.5"/>
+  <rect x="4" y="4" width="952" height="52" rx="18" fill="#0d1434"/>
+  <rect x="4" y="40" width="952" height="16" fill="#0d1434"/>
+  <circle cx="36" cy="30" r="7" fill="#f87171"/><circle cx="60" cy="30" r="7" fill="#fbbf24"/><circle cx="84" cy="30" r="7" fill="#4ade80"/>
+  <text x="480" y="36" text-anchor="middle" font-family="ui-monospace, Consolas, monospace" font-size="16" fill="#64748b">about.ts</text>
+  <g font-family="ui-monospace, 'Cascadia Code', Consolas, monospace" font-size="19">
+    <clipPath id="cc0"><rect x="70" y="84" width="0" height="32">
+      <animate attributeName="width" values="0;0;276;276" keyTimes="0;0.006;0.075;1" dur="22.0s" repeatCount="indefinite"/>
+    </rect></clipPath>
+    <g clip-path="url(#cc0)" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.006;0.012;0.9;0.955;1" dur="22.0s" repeatCount="indefinite"/>
+      <text x="70" y="108"><tspan fill="#c792ea">const </tspan><tspan fill="#f1f5f9">kyawMyoNaing </tspan><tspan fill="#f472b6">= {</tspan></text>
+    </g>
+    <rect x="70" y="86" width="11" height="26" fill="#4ade80" opacity="0">
+      <animate attributeName="x" values="70;70;346;346" keyTimes="0;0.006;0.075;1" dur="22.0s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0;1;1;0;1;0;1;1;0;0" keyTimes="0;0.006;0.014;0.075;0.095;0.115;0.135;0.16;0.9;0.955;1" dur="22.0s" repeatCount="indefinite"/>
+    </rect>
+    <clipPath id="cc1"><rect x="70" y="118" width="0" height="32">
+      <animate attributeName="width" values="0;0;299;299" keyTimes="0.1091;0.1151;0.1841;1" dur="22.0s" repeatCount="indefinite"/>
+    </rect></clipPath>
+    <g clip-path="url(#cc1)" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.1091;0.1151;0.1211;0.9;0.955;1" dur="22.0s" repeatCount="indefinite"/>
+      <text x="70" y="142"><tspan fill="#7dd3fc">  basedIn</tspan><tspan fill="#94a3b8">: </tspan><tspan fill="#a7f3d0">"Myanmar 🇲🇲"</tspan><tspan fill="#94a3b8">,</tspan></text>
+    </g>
+    <rect x="70" y="120" width="11" height="26" fill="#4ade80" opacity="0">
+      <animate attributeName="x" values="70;70;369;369" keyTimes="0.1091;0.1151;0.1841;1" dur="22.0s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0;1;1;0;1;0;1;1;0;0" keyTimes="0.1091;0.1151;0.1231;0.1841;0.2041;0.2241;0.2441;0.2691;0.9;0.955;1" dur="22.0s" repeatCount="indefinite"/>
+    </rect>
+    <clipPath id="cc2"><rect x="70" y="152" width="0" height="32">
+      <animate attributeName="width" values="0;0;379;379" keyTimes="0.2182;0.2242;0.2932;1" dur="22.0s" repeatCount="indefinite"/>
+    </rect></clipPath>
+    <g clip-path="url(#cc2)" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.2182;0.2242;0.2302;0.9;0.955;1" dur="22.0s" repeatCount="indefinite"/>
+      <text x="70" y="176"><tspan fill="#7dd3fc">  role</tspan><tspan fill="#94a3b8">: </tspan><tspan fill="#a7f3d0">"Full-Stack Developer"</tspan><tspan fill="#94a3b8">,</tspan></text>
+    </g>
+    <rect x="70" y="154" width="11" height="26" fill="#4ade80" opacity="0">
+      <animate attributeName="x" values="70;70;449;449" keyTimes="0.2182;0.2242;0.2932;1" dur="22.0s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0;1;1;0;1;0;1;1;0;0" keyTimes="0.2182;0.2242;0.2322;0.2932;0.3132;0.3332;0.3532;0.3782;0.9;0.955;1" dur="22.0s" repeatCount="indefinite"/>
+    </rect>
+    <clipPath id="cc3"><rect x="70" y="186" width="0" height="32">
+      <animate attributeName="width" values="0;0;493;493" keyTimes="0.3273;0.3333;0.4023;1" dur="22.0s" repeatCount="indefinite"/>
+    </rect></clipPath>
+    <g clip-path="url(#cc3)" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.3273;0.3333;0.3393;0.9;0.955;1" dur="22.0s" repeatCount="indefinite"/>
+      <text x="70" y="210"><tspan fill="#7dd3fc">  focus</tspan><tspan fill="#94a3b8">: </tspan><tspan fill="#f472b6">[</tspan><tspan fill="#a7f3d0">"Next.js"</tspan><tspan fill="#94a3b8">, </tspan><tspan fill="#a7f3d0">"TypeScript"</tspan><tspan fill="#94a3b8">, </tspan><tspan fill="#a7f3d0">"AI"</tspan><tspan fill="#f472b6">]</tspan><tspan fill="#94a3b8">,</tspan></text>
+    </g>
+    <rect x="70" y="188" width="11" height="26" fill="#4ade80" opacity="0">
+      <animate attributeName="x" values="70;70;563;563" keyTimes="0.3273;0.3333;0.4023;1" dur="22.0s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0;1;1;0;1;0;1;1;0;0" keyTimes="0.3273;0.3333;0.3413;0.4023;0.4223;0.4423;0.4623;0.4873;0.9;0.955;1" dur="22.0s" repeatCount="indefinite"/>
+    </rect>
+    <clipPath id="cc4"><rect x="70" y="220" width="0" height="32">
+      <animate attributeName="width" values="0;0;390;390" keyTimes="0.4364;0.4424;0.5114;1" dur="22.0s" repeatCount="indefinite"/>
+    </rect></clipPath>
+    <g clip-path="url(#cc4)" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.4364;0.4424;0.4484;0.9;0.955;1" dur="22.0s" repeatCount="indefinite"/>
+      <text x="70" y="244"><tspan fill="#7dd3fc">  building</tspan><tspan fill="#94a3b8">: </tspan><tspan fill="#a7f3d0">"Weather Dashboard"</tspan><tspan fill="#94a3b8">,</tspan></text>
+    </g>
+    <rect x="70" y="222" width="11" height="26" fill="#4ade80" opacity="0">
+      <animate attributeName="x" values="70;70;460;460" keyTimes="0.4364;0.4424;0.5114;1" dur="22.0s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0;1;1;0;1;0;1;1;0;0" keyTimes="0.4364;0.4424;0.4504;0.5114;0.5314;0.5514;0.5714;0.5964;0.9;0.955;1" dur="22.0s" repeatCount="indefinite"/>
+    </rect>
+    <clipPath id="cc5"><rect x="70" y="254" width="0" height="32">
+      <animate attributeName="width" values="0;0;562;562" keyTimes="0.5455;0.5515;0.6205;1" dur="22.0s" repeatCount="indefinite"/>
+    </rect></clipPath>
+    <g clip-path="url(#cc5)" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.5455;0.5515;0.5575;0.9;0.955;1" dur="22.0s" repeatCount="indefinite"/>
+      <text x="70" y="278"><tspan fill="#7dd3fc">  motto</tspan><tspan fill="#94a3b8">: </tspan><tspan fill="#a7f3d0">"Quality is not an act, it is a habit"</tspan></text>
+    </g>
+    <rect x="70" y="256" width="11" height="26" fill="#4ade80" opacity="0">
+      <animate attributeName="x" values="70;70;632;632" keyTimes="0.5455;0.5515;0.6205;1" dur="22.0s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0;1;1;0;1;0;1;1;0;0" keyTimes="0.5455;0.5515;0.5595;0.6205;0.6405;0.6605;0.6805;0.7055;0.9;0.955;1" dur="22.0s" repeatCount="indefinite"/>
+    </rect>
+    <clipPath id="cc6"><rect x="70" y="288" width="0" height="32">
+      <animate attributeName="width" values="0;0;47;47" keyTimes="0.6545;0.6605;0.7295;1" dur="22.0s" repeatCount="indefinite"/>
+    </rect></clipPath>
+    <g clip-path="url(#cc6)" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.6545;0.6605;0.6665;0.9;0.955;1" dur="22.0s" repeatCount="indefinite"/>
+      <text x="70" y="312"><tspan fill="#f472b6">};</tspan></text>
+    </g>
+    <rect x="70" y="290" width="11" height="26" fill="#4ade80" opacity="0">
+      <animate attributeName="x" values="70;70;117;117" keyTimes="0.6545;0.6605;0.7295;1" dur="22.0s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0;1;1;0;1;0;1;1;0;0" keyTimes="0.6545;0.6605;0.6685;0.7295;0.7495;0.7695;0.7895;0.8145;0.9;0.955;1" dur="22.0s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <text x="70" y="368" font-family="ui-monospace, Consolas, monospace" font-size="15" fill="#475569">▸ TypeScript · UTF-8 · Ln 7</text>
+</svg>
