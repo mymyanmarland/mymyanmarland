@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="130" viewBox="0 0 1200 130" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="w1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#0ea5e9" stop-opacity="0.05"/>
+    </linearGradient>
+    <linearGradient id="w2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#a78bfa" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#7c3aed" stop-opacity="0.05"/>
+    </linearGradient>
+    <linearGradient id="w3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f472b6" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#ec4899" stop-opacity="0.05"/>
+    </linearGradient>
+  </defs>
+
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;-1200 0" dur="14s" repeatCount="indefinite"/>
+    <path fill="url(#w1)" d="M0,70 C200,40 400,100 600,70 C800,40 1000,100 1200,70 C1400,40 1600,100 1800,70 C2000,40 2200,100 2400,70 L2400,130 L0,130 Z"/>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="-1200 0;0 0" dur="10s" repeatCount="indefinite"/>
+    <path fill="url(#w2)" d="M0,85 C200,60 400,110 600,85 C800,60 1000,110 1200,85 C1400,60 1600,110 1800,85 C2000,60 2200,110 2400,85 L2400,130 L0,130 Z"/>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;-1200 0" dur="18s" repeatCount="indefinite"/>
+    <path fill="url(#w3)" d="M0,100 C200,80 400,120 600,100 C800,80 1000,120 1200,100 C1400,80 1600,120 1800,100 C2000,80 2200,120 2400,100 L2400,130 L0,130 Z"/>
+  </g>
+
+  <g fill="#e0f2fe" font-family="'Segoe UI', system-ui, sans-serif" text-anchor="middle">
+    <text x="600" y="118" font-size="15" letter-spacing="4" opacity="0.85">BUILD WITH INTENT · LEARN IN PUBLIC · KEEP MOVING FORWARD 🚀</text>
+  </g>
+</svg>
