@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="130" viewBox="0 0 900 130">
+  <defs>
+    <filter id="neonGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="7"/>
+    </filter>
+    <filter id="neonGlow2" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+    <linearGradient id="neonBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#12071f"/>
+      <stop offset="1" stop-color="#0a0616"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="892" height="122" rx="20" fill="url(#neonBg)" stroke="#f472b6" stroke-opacity="0.4" stroke-width="1.5"/>
+  <g font-family="'Segoe UI', system-ui, sans-serif" text-anchor="middle" font-weight="800">
+    <!-- glow layers with faulty-neon flicker -->
+    <text x="450" y="82" font-size="44" letter-spacing="6" fill="#f472b6" filter="url(#neonGlow)">
+      <animate attributeName="opacity" values="1;1;0.35;1;1;0.6;1;1;1;0.45;1" keyTimes="0;0.18;0.22;0.26;0.5;0.54;0.58;0.8;0.84;0.88;1" dur="6s" repeatCount="indefinite"/>
+    </text>
+    <text x="450" y="82" font-size="44" letter-spacing="6" fill="#f9a8d4" filter="url(#neonGlow2)">
+      <animate attributeName="opacity" values="1;1;0.5;1;1;0.7;1;1;1;0.55;1" keyTimes="0;0.18;0.22;0.26;0.5;0.54;0.58;0.8;0.84;0.88;1" dur="6s" repeatCount="indefinite"/>
+    </text>
+    <text x="450" y="82" font-size="44" letter-spacing="6" fill="#fff1f2">LET'S BUILD SOMETHING GREAT</text>
+    <text x="450" y="110" font-size="15" letter-spacing="8" fill="#67e8f9" opacity="0.85">— OPEN TO COLLABORATION —</text>
+  </g>
+</svg>
