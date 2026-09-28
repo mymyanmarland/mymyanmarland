@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440">
+  <defs>
+    <radialGradient id="coreGlow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0.85"/>
+      <stop offset="0.6" stop-color="#0ea5e9" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#0ea5e9" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="coreFace" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#164e63"/>
+      <stop offset="1" stop-color="#0b1030"/>
+    </linearGradient>
+    <filter id="orbGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="5"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="440" fill="#070b24"/>
+
+  <!-- backdrop dots -->
+  <g fill="#94a3b8">
+    <circle cx="120" cy="80" r="2"><animate attributeName="opacity" values="0.9;0.2;0.9" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="1080" cy="90" r="2.4"><animate attributeName="opacity" values="0.3;1;0.3" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="200" cy="370" r="2"><animate attributeName="opacity" values="1;0.25;1" dur="3.6s" repeatCount="indefinite"/></circle>
+    <circle cx="1000" cy="360" r="1.8"><animate attributeName="opacity" values="0.25;1;0.25" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="600" cy="40" r="2.2"><animate attributeName="opacity" values="0.9;0.3;0.9" dur="3.4s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- orbit rings -->
+  <ellipse cx="600" cy="220" rx="230" ry="115" fill="none" stroke="#22d3ee" stroke-width="1.5" stroke-dasharray="8 12" opacity="0.5">
+    <animateTransform attributeName="transform" type="rotate" from="0 600 220" to="360 600 220" dur="60s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="600" cy="220" rx="350" ry="175" fill="none" stroke="#a78bfa" stroke-width="1.5" stroke-dasharray="6 16" opacity="0.45">
+    <animateTransform attributeName="transform" type="rotate" from="360 600 220" to="0 600 220" dur="90s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- core -->
+  <circle cx="600" cy="220" r="130" fill="url(#coreGlow)">
+    <animate attributeName="opacity" values="1;0.7;1" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="600" cy="220" r="72" fill="url(#coreFace)" stroke="#22d3ee" stroke-width="2.5"/>
+  <g font-family="'Segoe UI', system-ui, sans-serif" text-anchor="middle">
+    <text x="600" y="214" font-size="30" font-weight="800" letter-spacing="4" fill="#ffffff">MY</text>
+    <text x="600" y="244" font-size="22" font-weight="700" letter-spacing="6" fill="#67e8f9">STACK</text>
+  </g>
+
+  <!-- inner orbiters -->
+  <g font-family="'Segoe UI', system-ui, sans-serif" font-size="21" font-weight="700">
+    <g transform="translate(370,220)">
+      <animateMotion dur="16s" repeatCount="indefinite" path="M 0,0 A 230,115 0 1 1 460,0 A 230,115 0 1 1 0,0"/>
+      <circle r="7" fill="#ffffff" filter="url(#orbGlow)"/><circle r="7" fill="#ffffff"/>
+      <text x="16" y="8" fill="#f1f5f9">Next.js</text>
+    </g>
+    <g transform="translate(600,105)">
+      <animateMotion dur="16s" repeatCount="indefinite" path="M 0,0 A 230,115 0 1 1 0,230 A 230,115 0 1 1 0,0"/>
+      <circle r="7" fill="#3178c6" filter="url(#orbGlow)"/><circle r="7" fill="#3178c6"/>
+      <text x="16" y="8" fill="#93c5fd">TypeScript</text>
+    </g>
+    <g transform="translate(830,220)">
+      <animateMotion dur="16s" repeatCount="indefinite" path="M 0,0 A 230,115 0 1 1 -460,0 A 230,115 0 1 1 0,0"/>
+      <circle r="7" fill="#61dafb" filter="url(#orbGlow)"/><circle r="7" fill="#61dafb"/>
+      <text x="16" y="8" fill="#a5f3fc">React</text>
+    </g>
+    <g transform="translate(600,335)">
+      <animateMotion dur="16s" repeatCount="indefinite" path="M 0,0 A 230,115 0 1 1 0,-230 A 230,115 0 1 1 0,0"/>
+      <circle r="7" fill="#68a063" filter="url(#orbGlow)"/><circle r="7" fill="#68a063"/>
+      <text x="16" y="8" fill="#bbf7d0">Node.js</text>
+    </g>
+  </g>
+
+  <!-- outer orbiters (reverse) -->
+  <g font-family="'Segoe UI', system-ui, sans-serif" font-size="20" font-weight="700">
+    <g transform="translate(250,220)">
+      <animateMotion dur="26s" repeatCount="indefinite" path="M 0,0 A 350,175 0 1 0 700,0 A 350,175 0 1 0 0,0"/>
+      <circle r="6" fill="#3ecf8e" filter="url(#orbGlow)"/><circle r="6" fill="#3ecf8e"/>
+      <text x="15" y="7" fill="#a7f3d0">Supabase</text>
+    </g>
+    <g transform="translate(600,45)">
+      <animateMotion dur="26s" repeatCount="indefinite" path="M 0,0 A 350,175 0 1 0 0,350 A 350,175 0 1 0 0,0"/>
+      <circle r="6" fill="#38bdf8" filter="url(#orbGlow)"/><circle r="6" fill="#38bdf8"/>
+      <text x="15" y="7" fill="#bae6fd">Tailwind</text>
+    </g>
+    <g transform="translate(950,220)">
+      <animateMotion dur="26s" repeatCount="indefinite" path="M 0,0 A 350,175 0 1 0 -700,0 A 350,175 0 1 0 0,0"/>
+      <circle r="6" fill="#2496ed" filter="url(#orbGlow)"/><circle r="6" fill="#2496ed"/>
+      <text x="15" y="7" fill="#bfdbfe">Docker</text>
+    </g>
+    <g transform="translate(600,395)">
+      <animateMotion dur="26s" repeatCount="indefinite" path="M 0,0 A 350,175 0 1 0 0,-350 A 350,175 0 1 0 0,0"/>
+      <circle r="6" fill="#ffd43b" filter="url(#orbGlow)"/><circle r="6" fill="#ffd43b"/>
+      <text x="15" y="7" fill="#fef08a">Python</text>
+    </g>
+  </g>
+
+  <g font-family="'Segoe UI', system-ui, sans-serif" text-anchor="middle">
+    <text x="600" y="420" font-size="16" letter-spacing="5" fill="#64748b">🪐 TECH ORBIT — TOOLS I BUILD WITH</text>
+  </g>
+</svg>
