@@ -11,6 +11,8 @@
   <a href="https://github.com/mymyanmarland?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-127-0f172a?style=for-the-badge&logo=github" alt="Public repositories" /></a>
   <a href="https://t.me/mymyanmarland4"><img src="https://img.shields.io/badge/Telegram-Connect-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="https://www.facebook.com/108912288311862"><img src="https://img.shields.io/badge/808_Coder-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="808 Coder Facebook Page" /></a>
+  <a href="assets/welcome.mp3"><img src="https://img.shields.io/badge/PLAY_WELCOME-%F0%9F%94%8A-22d3ee?style=for-the-badge&logoColor=white" alt="Play welcome greeting" /></a>
+  <a href="assets/spaceship-flyby.mp3"><img src="https://img.shields.io/badge/SPACESHIP_FLYBY-%F0%9F%9A%80-a78bfa?style=for-the-badge&logoColor=white" alt="Play spaceship flyby sound" /></a>
 </div>
 
 <div align="center">
