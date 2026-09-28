@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="120" viewBox="0 0 900 120">
   <g font-family="Georgia, 'Times New Roman', serif" text-anchor="middle">
     <text x="60" y="70" font-size="72" fill="#22d3ee" opacity="0.35">“</text>
-    <text x="450" y="58" font-size="23" font-style="italic" fill="#e2e8f0" opacity="0">"Quality is not an act, it is a habit."
-      <animate attributeName="opacity" values="0;0;1;1;1;0;0" keyTimes="0;0.02;0.06;0.27;0.31;0.34;1" dur="18s" repeatCount="indefinite"/>
+    <text x="450" y="58" font-size="23" font-style="italic" fill="#e2e8f0" opacity="1">"Quality is not an act, it is a habit."
+      <animate attributeName="opacity" values="1;1;1;1;1;0;0" keyTimes="0;0.02;0.06;0.27;0.31;0.34;1" dur="18s" repeatCount="indefinite"/>
     </text>
-    <text x="450" y="86" font-size="15" fill="#64748b" opacity="0">— Aristotle
-      <animate attributeName="opacity" values="0;0;1;1;1;0;0" keyTimes="0;0.02;0.06;0.27;0.31;0.34;1" dur="18s" repeatCount="indefinite"/>
+    <text x="450" y="86" font-size="15" fill="#64748b" opacity="1">— Aristotle
+      <animate attributeName="opacity" values="1;1;1;1;1;0;0" keyTimes="0;0.02;0.06;0.27;0.31;0.34;1" dur="18s" repeatCount="indefinite"/>
     </text>
     <text x="450" y="58" font-size="23" font-style="italic" fill="#e2e8f0" opacity="0">"First, solve the problem. Then, write the code."
       <animate attributeName="opacity" values="0;0;1;1;1;0;0" keyTimes="0.34;0.36;0.40;0.61;0.65;0.68;1" dur="18s" repeatCount="indefinite"/>
