@@ -86,16 +86,6 @@ I turn ideas into polished, maintainable web applications — from product desig
   </tr>
 </table>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mymyanmarland/mymyanmarland/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mymyanmarland/mymyanmarland/output/github-snake.svg" />
-    <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/mymyanmarland/mymyanmarland/output/github-snake.svg" width="100%" />
-  </picture>
-</div>
-
 ## 🤝 Let's Connect
 
 <div align="center">
