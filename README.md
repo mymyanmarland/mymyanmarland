@@ -13,6 +13,10 @@
   <a href="https://www.facebook.com/108912288311862"><img src="https://img.shields.io/badge/808_Coder-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="808 Coder Facebook Page" /></a>
 </div>
 
+<div align="center">
+  <img src="assets/now.svg" width="720" alt="Currently building status" />
+</div>
+
 <br />
 
 ## 👋 About Me
@@ -29,13 +33,25 @@ const kyawMyoNaing = {
 
 I turn ideas into polished, maintainable web applications — from product design and frontend UX to APIs, data, automation, and deployment. I build in both **မြန်မာ** and **English**.
 
+<div align="center">
+  <img src="assets/divider.svg" width="100%" alt="" />
+</div>
+
 ## 📊 Stats
 
 <div align="center">
   <img src="assets/stats.svg" width="100%" alt="GitHub stats and top languages" />
 </div>
 
+<div align="center">
+  <img src="assets/divider.svg" width="100%" alt="" />
+</div>
+
 ## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="assets/orbit.svg" width="100%" alt="Animated tech orbit" />
+</div>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,py,nodejs,express,prisma,postgres,supabase,tailwind,docker,git,github,linux,vscode&perline=8" alt="Technology stack" />
@@ -85,6 +101,14 @@ I turn ideas into polished, maintainable web applications — from product desig
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <img src="assets/divider.svg" width="100%" alt="" />
+</div>
+
+<div align="center">
+  <img src="assets/acheik.svg" width="100%" alt="Myanmar acheik pattern divider" />
+</div>
 
 ## 🤝 Let's Connect
 
