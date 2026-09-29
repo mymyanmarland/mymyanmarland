@@ -63,6 +63,15 @@ I turn ideas into polished, maintainable web applications — from product desig
 
 ## ✨ Featured Projects
 
+<div align="center">
+  <a href="https://t.me/zawgyiclawbot"><img src="assets/zawgyi-spotlight.svg" width="100%" alt="Zaw Gyi Claw Bot — featured project" /></a>
+</div>
+
+<p align="center">
+  <a href="https://t.me/zawgyiclawbot"><img src="https://img.shields.io/badge/Telegram-@zawgyiclawbot-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Try on Telegram" /></a>
+  <a href="https://github.com/mymyanmarland/zawgyi-claw-bot"><img src="https://img.shields.io/badge/Source-zawgyi--claw--bot-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Source code" /></a>
+</p>
+
 <table>
   <tr>
     <td width="50%" valign="top">
