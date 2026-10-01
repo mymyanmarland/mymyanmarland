@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380">
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#150826"/>
+      <stop offset="0.55" stop-color="#312e81"/>
+      <stop offset="1" stop-color="#1e1b4b"/>
+    </linearGradient>
+    <radialGradient id="fglow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#a78bfa" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#a78bfa" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="fsh" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#fff" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="ftitle" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ddd6fe"/>
+      <stop offset="1" stop-color="#f0abfc"/>
+    </linearGradient>
+    <style>
+      .sweep { animation: sweep 4.5s ease-in-out infinite; }
+      @keyframes sweep { 0% { transform: translateX(-500px) skewX(-18deg); } 60%,100% { transform: translateX(1500px) skewX(-18deg); } }
+      .fbob { animation: fbob 6s ease-in-out infinite; }
+      @keyframes fbob { 0%,100% { transform: translateY(0) rotate(-4deg); } 50% { transform: translateY(-16px) rotate(4deg); } }
+      .fpulse { animation: fpulse 2.4s ease-in-out infinite; }
+      @keyframes fpulse { 0%,100% { opacity: 0.65; } 50% { opacity: 1; } }
+      .fst { animation: fst 3s ease-in-out infinite; }
+      .fst2 { animation: fst 4s ease-in-out infinite 1s; }
+      @keyframes fst { 0%,100% { opacity: 0.2; } 50% { opacity: 1; } }
+      .pop { animation: pop 0.9s cubic-bezier(.2,.9,.3,1.4) both; }
+      .pop2 { animation: pop 0.9s cubic-bezier(.2,.9,.3,1.4) 0.2s both; }
+      @keyframes pop { from { opacity: 0; transform: scale(0.85) translateY(14px); } to { opacity: 1; transform: scale(1) translateY(0); } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="380" rx="26" fill="url(#fbg)"/>
+  <rect width="1200" height="380" rx="26" fill="none" stroke="#a78bfa" stroke-width="2.5" opacity="0.8"/>
+  <ellipse cx="980" cy="190" rx="260" ry="170" fill="url(#fglow)"/>
+  <rect class="sweep" x="0" y="-40" width="220" height="460" fill="url(#fsh)"/>
+
+  <g fill="#fff">
+    <circle class="fst" cx="120" cy="70" r="2.5"/>
+    <circle class="fst2" cx="420" cy="320" r="2"/>
+    <circle class="fst" cx="700" cy="60" r="3"/>
+    <circle class="fst2" cx="180" cy="330" r="2"/>
+    <circle class="fst" cx="60" cy="200" r="2"/>
+  </g>
+
+  <!-- FEATURED badge -->
+  <g class="pop">
+    <rect x="70" y="42" width="220" height="44" rx="22" fill="#f59e0b"/>
+    <text x="180" y="72" text-anchor="middle" font-size="22" font-weight="800" fill="#1a1005" font-family="system-ui, sans-serif">🌟 FEATURED</text>
+  </g>
+
+  <!-- title + desc -->
+  <g font-family="system-ui, sans-serif">
+    <text class="pop" x="70" y="140" font-size="52" font-weight="800" fill="url(#ftitle)">⌨️ Feature Generator</text>
+    <text class="pop2" x="70" y="182" font-size="24" fill="#ede9fe">စိတ်ကူးကို spec အပြည့်အစုံအဖြစ် ပြောင်းပေးတဲ့ AI</text>
+    <text class="pop2" x="70" y="216" font-size="19" fill="#c4b5fd">AI command bar · Structured specs · PDF reports</text>
+
+    <!-- CTA pills -->
+    <g class="pop2">
+      <rect x="70" y="248" width="280" height="58" rx="29" fill="#7c3aed"/>
+      <text x="210" y="285" text-anchor="middle" font-size="22" font-weight="700" fill="#fff">🚀 Try it Live</text>
+      <rect x="370" y="248" width="230" height="58" rx="29" fill="none" stroke="#c4b5fd" stroke-width="2"/>
+      <text x="485" y="285" text-anchor="middle" font-size="22" font-weight="700" fill="#ede9fe">📦 Source</text>
+    </g>
+
+    <g class="fpulse">
+      <rect x="70" y="322" width="150" height="34" rx="17" fill="#16a34a"/>
+      <circle cx="92" cy="339" r="6" fill="#fff"/>
+      <text x="128" y="347" text-anchor="middle" font-size="17" font-weight="700" fill="#fff">● LIVE</text>
+    </g>
+  </g>
+
+  <!-- right side art -->
+  <g class="fbob">
+    <text x="980" y="230" text-anchor="middle" font-size="150">⌨️</text>
+    <text x="880" y="120" text-anchor="middle" font-size="44">✨</text>
+    <text x="1080" y="140" text-anchor="middle" font-size="36">📄</text>
+    <text x="900" y="310" text-anchor="middle" font-size="40">🤖</text>
+  </g>
+</svg>
