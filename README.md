@@ -72,6 +72,42 @@ I turn ideas into polished, maintainable web applications — from product desig
   <a href="https://github.com/mymyanmarland/zawgyi-claw-bot"><img src="https://img.shields.io/badge/Source-zawgyi--claw--bot-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Source code" /></a>
 </p>
 
+<div align="center">
+  <a href="https://jobs.kmnapps.xyz"><img src="assets/career-spotlight.svg" width="100%" alt="Career Connect Network — featured project" /></a>
+</div>
+
+<p align="center">
+  <a href="https://jobs.kmnapps.xyz"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Website-jobs.kmnapps.xyz-0d9488?style=for-the-badge" alt="Website" /></a>
+  <a href="https://github.com/mymyanmarland/career-connect-network"><img src="https://img.shields.io/badge/Source-career--connect--network-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Source code" /></a>
+</p>
+
+<div align="center">
+  <a href="https://imagine.kmnapps.xyz"><img src="assets/ocean-spotlight.svg" width="100%" alt="OceanCanvas — featured project" /></a>
+</div>
+
+<p align="center">
+  <a href="https://imagine.kmnapps.xyz"><img src="https://img.shields.io/badge/%F0%9F%8C%8A_Live-imagine.kmnapps.xyz-2563eb?style=for-the-badge" alt="Live" /></a>
+  <a href="https://github.com/mymyanmarland/ocean-canvas"><img src="https://img.shields.io/badge/Source-ocean--canvas-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Source code" /></a>
+</p>
+
+<div align="center">
+  <a href="https://feature.kmnapps.xyz"><img src="assets/feature-spotlight.svg" width="100%" alt="Feature Generator — featured project" /></a>
+</div>
+
+<p align="center">
+  <a href="https://feature.kmnapps.xyz"><img src="https://img.shields.io/badge/%E2%8C%A8%EF%B8%8F_Live-feature.kmnapps.xyz-7c3aed?style=for-the-badge" alt="Live" /></a>
+  <a href="https://github.com/mymyanmarland/feature-generator"><img src="https://img.shields.io/badge/Source-feature--generator-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Source code" /></a>
+</p>
+
+<div align="center">
+  <a href="https://linpyaecafe.kmnapps.xyz"><img src="assets/linpyae-spotlight.svg" width="100%" alt="Linpyae Cafe — featured project" /></a>
+</div>
+
+<p align="center">
+  <a href="https://linpyaecafe.kmnapps.xyz"><img src="https://img.shields.io/badge/%E2%98%95_Live_Demo-linpyaecafe.kmnapps.xyz-ea580c?style=for-the-badge" alt="Live demo" /></a>
+  <a href="https://github.com/mymyanmarland/linpyae-cafe"><img src="https://img.shields.io/badge/Source-linpyae--cafe-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Source code" /></a>
+</p>
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -98,11 +134,6 @@ I turn ideas into polished, maintainable web applications — from product desig
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>☕ Cafe Management System</h3>
-      <p>Full-stack POS — orders, menu, staff roles, and Myanmar-time dashboards.</p>
-      <p><a href="https://github.com/mymyanmarland/cafe-management">📦 Source</a></p>
-    </td>
     <td width="50%" valign="top">
       <h3>🔄 n8n Workflows Catalog</h3>
       <p>Discover and share automation workflows.</p>
