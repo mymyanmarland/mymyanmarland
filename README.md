@@ -64,6 +64,15 @@ I turn ideas into polished, maintainable web applications — from product desig
 ## ✨ Featured Projects
 
 <div align="center">
+  <a href="https://botbox.kmnapps.xyz"><img src="assets/botbox-spotlight.svg" width="100%" alt="BotBox — featured project" /></a>
+</div>
+
+<p align="center">
+  <a href="https://botbox.kmnapps.xyz"><img src="https://img.shields.io/badge/%F0%9F%A4%96_Live-botbox.kmnapps.xyz-e11d2e?style=for-the-badge" alt="Live" /></a>
+  <a href="https://github.com/mymyanmarland/botbox"><img src="https://img.shields.io/badge/Source-botbox-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Source code" /></a>
+</p>
+
+<div align="center">
   <a href="https://t.me/zawgyiclawbot"><img src="assets/zawgyi-spotlight.svg" width="100%" alt="Zaw Gyi Claw Bot — featured project" /></a>
 </div>
 
