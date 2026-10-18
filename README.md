@@ -64,6 +64,24 @@ I turn ideas into polished, maintainable web applications — from product desig
 ## ✨ Featured Projects
 
 <div align="center">
+  <a href="https://shweprompt.funapp.live"><img src="assets/shweprompt-spotlight.svg" width="100%" alt="ShwePrompt — featured project" /></a>
+</div>
+
+<p align="center">
+  <a href="https://shweprompt.funapp.live"><img src="https://img.shields.io/badge/%E2%9C%A8_Live-shweprompt.funapp.live-fbbf24?style=for-the-badge" alt="Live" /></a>
+  <a href="https://github.com/mymyanmarland/shweprompt"><img src="https://img.shields.io/badge/Source-shweprompt-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Source code" /></a>
+</p>
+
+<div align="center">
+  <a href="https://alco.funapp.live"><img src="assets/alco-spotlight.svg" width="100%" alt="ALCO — featured project" /></a>
+</div>
+
+<p align="center">
+  <a href="https://alco.funapp.live"><img src="https://img.shields.io/badge/%F0%9F%9A%80_Live-alco.funapp.live-8b5cf6?style=for-the-badge" alt="Live" /></a>
+  <a href="https://github.com/mymyanmarland/alco"><img src="https://img.shields.io/badge/Source-alco-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Source code" /></a>
+</p>
+
+<div align="center">
   <a href="https://botbox.kmnapps.xyz"><img src="assets/botbox-spotlight.svg" width="100%" alt="BotBox — featured project" /></a>
 </div>
 
@@ -73,39 +91,12 @@ I turn ideas into polished, maintainable web applications — from product desig
 </p>
 
 <div align="center">
-  <a href="https://t.me/zawgyiclawbot"><img src="assets/zawgyi-spotlight.svg" width="100%" alt="Zaw Gyi Claw Bot — featured project" /></a>
-</div>
-
-<p align="center">
-  <a href="https://t.me/zawgyiclawbot"><img src="https://img.shields.io/badge/Telegram-@zawgyiclawbot-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Try on Telegram" /></a>
-  <a href="https://github.com/mymyanmarland/zawgyi-claw-bot"><img src="https://img.shields.io/badge/Source-zawgyi--claw--bot-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Source code" /></a>
-</p>
-
-<div align="center">
   <a href="https://jobs.kmnapps.xyz"><img src="assets/career-spotlight.svg" width="100%" alt="Career Connect Network — featured project" /></a>
 </div>
 
 <p align="center">
   <a href="https://jobs.kmnapps.xyz"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Website-jobs.kmnapps.xyz-0d9488?style=for-the-badge" alt="Website" /></a>
   <a href="https://github.com/mymyanmarland/career-connect-network"><img src="https://img.shields.io/badge/Source-career--connect--network-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Source code" /></a>
-</p>
-
-<div align="center">
-  <a href="https://imagine.kmnapps.xyz"><img src="assets/ocean-spotlight.svg" width="100%" alt="OceanCanvas — featured project" /></a>
-</div>
-
-<p align="center">
-  <a href="https://imagine.kmnapps.xyz"><img src="https://img.shields.io/badge/%F0%9F%8C%8A_Live-imagine.kmnapps.xyz-2563eb?style=for-the-badge" alt="Live" /></a>
-  <a href="https://github.com/mymyanmarland/ocean-canvas"><img src="https://img.shields.io/badge/Source-ocean--canvas-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Source code" /></a>
-</p>
-
-<div align="center">
-  <a href="https://feature.kmnapps.xyz"><img src="assets/feature-spotlight.svg" width="100%" alt="Feature Generator — featured project" /></a>
-</div>
-
-<p align="center">
-  <a href="https://feature.kmnapps.xyz"><img src="https://img.shields.io/badge/%E2%8C%A8%EF%B8%8F_Live-feature.kmnapps.xyz-7c3aed?style=for-the-badge" alt="Live" /></a>
-  <a href="https://github.com/mymyanmarland/feature-generator"><img src="https://img.shields.io/badge/Source-feature--generator-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Source code" /></a>
 </p>
 
 <div align="center">
