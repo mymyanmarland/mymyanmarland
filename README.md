@@ -73,15 +73,6 @@ I turn ideas into polished, maintainable web applications — from product desig
 </p>
 
 <div align="center">
-  <a href="https://alco.funapp.live"><img src="assets/alco-spotlight.svg" width="100%" alt="ALCO — featured project" /></a>
-</div>
-
-<p align="center">
-  <a href="https://alco.funapp.live"><img src="https://img.shields.io/badge/%F0%9F%9A%80_Live-alco.funapp.live-8b5cf6?style=for-the-badge" alt="Live" /></a>
-  <a href="https://github.com/mymyanmarland/alco"><img src="https://img.shields.io/badge/Source-alco-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Source code" /></a>
-</p>
-
-<div align="center">
   <a href="https://botbox.kmnapps.xyz"><img src="assets/botbox-spotlight.svg" width="100%" alt="BotBox — featured project" /></a>
 </div>
 
