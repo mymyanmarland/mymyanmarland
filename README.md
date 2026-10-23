@@ -64,6 +64,15 @@ I turn ideas into polished, maintainable web applications — from product desig
 ## ✨ Featured Projects
 
 <div align="center">
+  <a href="https://cursormemo.funapp.live"><img src="assets/cursormemo-spotlight.svg" width="100%" alt="CursorMemo — featured project" /></a>
+</div>
+
+<p align="center">
+  <a href="https://cursormemo.funapp.live"><img src="https://img.shields.io/badge/%E2%9C%A8_Live-cursormemo.funapp.live-22d3ee?style=for-the-badge" alt="Live" /></a>
+  <a href="https://github.com/mymyanmarland/cursormemo"><img src="https://img.shields.io/badge/Source-cursormemo-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Source code" /></a>
+</p>
+
+<div align="center">
   <a href="https://shweprompt.funapp.live"><img src="assets/shweprompt-spotlight.svg" width="100%" alt="ShwePrompt — featured project" /></a>
 </div>
 
